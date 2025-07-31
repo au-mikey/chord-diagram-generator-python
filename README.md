@@ -21,10 +21,10 @@ To use this script, you need Python installed on your system.
 
     Clone the repository:
 
-    git clone https://github.com/YOUR_USERNAME/chord-diagram-generator-python.git
+    git clone https://github.com/au-mikey/chord-diagram-generator-python.git
     cd chord-diagram-generator-python
 
-    (Remember to replace YOUR_USERNAME with your actual GitHub username)
+    (Remember to replace au-mikey with your actual GitHub username)
 
     Install dependencies:
     This project requires the Pillow library for image manipulation. You can install it using pip:
